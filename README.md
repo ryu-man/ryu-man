@@ -6,6 +6,4 @@ My name is Abdelhalim Riache and i am a Front developer specialized in JavaScrip
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryu-man&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryu-man)](https://github.com/anuraghazra/github-readme-stats)
 
-<center>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-</center>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryu-man)](https://git.io/streak-stats)
