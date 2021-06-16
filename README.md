@@ -1,11 +1,9 @@
-<table  align="center">
-<tr><td align="center">
+<table width="100%">
+
+<tr><td  align="center">
 
 **'Marhaba', 'Hello', 'Hallo', 'Salut'**
 
-</td></tr>
-
-<tr><td>
 
 # Front-End Developer
 
@@ -29,9 +27,10 @@ My name is Abdelhalim Riache and i am a Front developer specialized in JavaScrip
  
 <p align="center">
     <img  width="48%" src="https://github-readme-stats.vercel.app/api?username=ryu-man&show_icons=true&theme=tokyonight"/>
+    <img width="2%" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ryu-man&theme=tokyonight"/>
 </p>
 
 <p align="center">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryu-man&theme=tokyonight"/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryu-man&theme=tokyonight"/>
 </p>
