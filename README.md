@@ -20,12 +20,17 @@ My name is Abdelhalim Riache and i am a Front developer specialized in JavaScrip
  <img src="https://badges.pufler.dev/commits/monthly/ryu-man" />
 </p>
 
+<br>
+
+<p align="left">
+     <img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=ryu-man&theme=tokyonight"/>
+    <img  width="99%" src="https://github-readme-stats.vercel.app/api?username=ryu-man&show_icons=true&theme=tokyonight"/>
+</p>
+
 <br> 
-    <img  width="48%" src="https://github-readme-stats.vercel.app/api?username=ryu-man&show_icons=true&theme=tokyonight"/>
-     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ryu-man&theme=tokyonight"/>
 
 
 <p align="left">
-    <img width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryu-man&theme=tokyonight"/>
+    <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryu-man&theme=tokyonight"/>
 </p>
   
