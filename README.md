@@ -15,10 +15,7 @@ My name is Abdelhalim Riache and i am a Front developer specialized in JavaScrip
 
 <br>
 
-<p align="left">
-     <img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=ryu-man&theme=tokyonight"/>
-    <img  width="99%" src="https://github-readme-stats.vercel.app/api?username=ryu-man&show_icons=true&theme=tokyonight"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=ryu-man&show_icons=true&theme=tokyonight"/>
 
 <br> 
 
