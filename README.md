@@ -1,14 +1,10 @@
-**'Marhaba', 'Hello', 'Hallo', 'Salut'**
-
-# About Me
-
-My name is Abdelhalim Riache and i am a **Front-End developer** specialized in **JavaScript** frameworks and libraries, I mainly use **React** and **Svelte** for building web applications, also have knowledge in backend apps (Node.js, Express.js, MongoDB, Mongoose ORM, Sequelize ORM) and very familliar with REST API.
+My name is Abdelhalim Riache,
+I am a **Front-End developer** who have passion learning Javascrip stuff and use it to build awesome UIs, frameworks and libraries, I love Svelte and SvelteKit and worked before with React, I also have interest in building data visualisation charts using d3.js.
+Also I do have some knowledge in backend development (Node.js, Express.js, MongoDB, Mongoose ORM, Sequelize ORM) and very familliar with REST API.
 
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
