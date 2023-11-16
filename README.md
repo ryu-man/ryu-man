@@ -1,8 +1,8 @@
-My name is Abdelhalim Riache,
+ My name is Abdelhalim Riache,
+ 
+ am a passionate Front-End developer, eager to learn and apply JavaScript to create impressive UIs, frameworks, and libraries. My experience spans working with React, Svelte, and SvelteKit, with a particular interest in crafting data visualization charts using d3.js.
 
-I am a **Front-End developer** who have passion learning Javascrip stuff and use it to build awesome UIs, frameworks and libraries, I love Svelte and SvelteKit and worked before with React, I also have interest in building data visualisation charts using d3.js.
-
-Also I do have some knowledge in backend development (Node.js, Express.js, MongoDB, Mongoose ORM, Sequelize ORM) and very familliar with REST API.
+Additionally, I possess some knowledge in backend development, specializing in Node.js, Express.js, MongoDB, Firebase, Mongoose ORM, and Sequelize ORM. REST API implementation is something I am well-versed in.
 
 ### 🛠 &nbsp;Tech Stack
 
