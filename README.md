@@ -1,8 +1,9 @@
- My name is Abdelhalim Riache,
+Hi, I'm Abdelhalim Riache
  
-I am a dedicated Front-End developer, driven by the desire to learn and utilize JavaScript in crafting remarkable user interfaces, frameworks, and libraries. My expertise encompasses working with React, Svelte, and SvelteKit, while my particular passion lies in creating visually captivating data visualization charts with d3.js.
+I'm a passionate Front-End Developer with a strong focus on leveraging JavaScript to build intuitive, high-quality user interfaces and dynamic web applications. My expertise lies in modern frameworks like React, Svelte, and SvelteKit, where I excel at creating responsive, user-centric designs. I have a particular enthusiasm for crafting visually engaging data visualizations using D3.js, bringing data to life with clarity and creativity.
 
-Furthermore, I have expertise in backend development encompassing technologies like Node.js, Express.js, MongoDB, Firebase, Supabase, as well as Mongoose and Sequelize ORMs. Implementing REST APIs is an area where I thrive and excel.
+Beyond the front-end, I bring solid back-end development skills to the table, working with technologies such as Node.js, Bun.js, Express.js, MongoDB, Firebase, PostgreSQL, Supabase. I’m proficient in utilizing ORMs to streamline database interactions and have a proven track record of implementing robust REST and GraphQL APIs to power seamless, full-stack solutions.
+Driven by a commitment to continuous learning and technical excellence, I thrive at the intersection of design, functionality, and performance—delivering scalable, projects that enhance user experiences.
 
 ### 🛠 &nbsp;Tech Stack
 
